@@ -1,0 +1,26 @@
+messages:
+  prefix: "§c§lTest §8>> §7"
+  playerJoinMessage: "%p%s hat das Spiel betreten. [%s/%s]" #playerName, currentPlayerAmount, maxPlayerAmount
+  pluginStarted: "%p§7plugin has successfully §a§lstarted."
+  pluginStopped: "%p§7plugin has successfully §c§lstopped."
+  wrongCommandSender: "%p§cOnly players can perform this command."
+  lobbySpawnLocationUpdated: ""
+  teamSelectorItem: "§e§lTeam-Selector §7<Right-Click>"
+  teamSelectorGuiName: "§e§lTeam-Selector"
+  teamSelectionItem: "§8§l>> %s §7[%s/%s]"
+  teamSelectionItemDescription: "§7• %s"
+  teamIsFull: "%pThis team is already §cfull."
+  playerAlreadyJoinedThisTeam: "%pYou already joined this team."
+  playerJoinedNewTeam: "%pYou joined Team %s."
+  kitGuiName: "§b§lKit-Selector"
+  kitSelectorItem: "§b§lKit-Selector §7<Right-Click>"
+  alreadySelectedKit: "%pYou already selected this kit."
+  selectedKit: "%pYou selected kit: %s"
+
+gameSettings:
+  teamAmount: 4
+  teamSize: 1
+  playerAmountToStart: 1
+  lobbyTimerDuration: 20
+  teamSelectorItemSlot: 0
+  kitSelectorItemSlot: 1
